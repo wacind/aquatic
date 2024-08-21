@@ -1,0 +1,10 @@
+.micromamba
+venv
+.idea
+__pycache__
+.DS_Store*
+reports
+.coverage
+
+# Added by codespaces
+oryx-build-commands.txt
